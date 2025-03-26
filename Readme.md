@@ -11,7 +11,7 @@ I'm a second-year Information Technology student at VIT Vellore with a strong fo
 - Tools & DevOps: Git, Docker, Kubernetes  
 
 ## Learning & Growth
-I'm consistently improving my problem-solving skills and have solved over 150 problems on LeetCode and GeeksforGeeks. I actively explore system design concepts, distributed systems, and high-performance computing.
+I'm consistently improving my problem-solving skills and have solved over 150 problems on LeetCode and GeeksforGeeks. I actively explore system design concepts and machine learning .
 
 ## Connect with Me
 - Email: kunjaradhya16@gmail.com  
