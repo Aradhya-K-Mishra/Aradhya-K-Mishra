@@ -1,7 +1,7 @@
 # Aradhya Kumar Mishra
 
 ## About Me
-I'm a third-year Information Technology student at VIT Vellore with a strong foundation in Data Structures and Algorithms (DSA) and a deep interest in Web Development. I enjoy solving complex problems, participating in hackathons, and working on scalable software solutions.
+I'm a third-year Information Technology student at VIT Vellore with a strong foundation in Data Structures and Algorithms (DSA) and a deep interest in Web Development. I enjoy solving complex problems and working on scalable software solutions.
 
 ## Tech Stack
 - Languages: TypeScript, JavaScript, Java, C++, Python  
